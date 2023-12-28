@@ -17,4 +17,4 @@ Run the following command to start the Project
 
 ## Added Image 2:
 
-<img src"screenshots/xyz2.jpg" width="400px">
+<img src="screenshots/xyz.jpg"  width="400px">
